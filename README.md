@@ -74,10 +74,10 @@ El sistema ha sido probado bajo diferentes escenarios agroclimáticos virtuales 
 ![Suelo Seco 0%](evidencias/humedad_0.png)
 
 ### 3. Escenario de Suelo Seco / Crítico (Riego Activo - 24.44\% VWC)
-![Suelo Seco 24%](evidencias/humedad_24%.png)
+![Suelo Seco 24%](evidencias/humedad_24.png)
 
 ### 4. Escenario de Zona de Transición (Rango Intermedio - 51.53\% VWC)
-![Transición](evidencias/humedad_51%.png)
+![Transición](evidencias/humedad_51.png)
 
 ### 5. Escenario de Humedad Óptima (Riego Inactivo - 74.09\% VWC)
-![Humedad Óptima](evidencias/humedad_74%.png)
+![Humedad Óptima](evidencias/humedad_74.png)
