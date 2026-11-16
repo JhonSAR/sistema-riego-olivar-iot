@@ -67,7 +67,6 @@ void loop() {
 ## 📊 Evidencias de Validación Funcional (Entorno Wokwi)
 El sistema ha sido probado bajo diferentes escenarios agroclimáticos virtuales para verificar la precisión del control y la estabilidad operativa:
 
-<!-- PEGA TUS LÍNEAS AQUÍ -->
 ### 1. Esquema general del circuito electrónico en Wokwi
 ![Esquema Wokwi](evidencias/esquema_esp32.png)
 
@@ -82,8 +81,6 @@ El sistema ha sido probado bajo diferentes escenarios agroclimáticos virtuales 
 
 ### 5. Escenario de Humedad Óptima (Riego Inactivo - $74.09\%$ VWC)
 ![Humedad Óptima](evidencias/humedad_74%.png)
-<!-- FIN DE TUS LÍNEAS -->
 
----
 
 ## 📂 Estructura del Repositorio
