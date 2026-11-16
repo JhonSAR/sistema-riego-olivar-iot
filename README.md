@@ -64,7 +64,7 @@ void loop() {
 
 ---
 
-## 📊 Evidencias de Validación Funcional (Entorno Wokwi)
+📊 Evidencias de Validación Funcional (Entorno Wokwi)
 El sistema ha sido probado bajo diferentes escenarios agroclimáticos virtuales para verificar la precisión del control y la estabilidad operativa:
 
 ### 1. Esquema general del circuito electrónico en Wokwi
