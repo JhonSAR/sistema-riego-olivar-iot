@@ -71,7 +71,7 @@ El sistema ha sido probado bajo diferentes escenarios agroclimáticos virtuales 
 ![Esquema Wokwi](evidencias/esquema_esp32.png)
 
 ### 2. Escenario de Suelo Seco (Riego Activo - $0.00\%$ VWC)
-![Suelo Seco 0%](evidencias/humedad_0%.png)
+![Suelo Seco 0%](evidencias/humedad_0.png)
 
 ### 3. Escenario de Suelo Seco / Crítico (Riego Activo - $24.44\%$ VWC)
 ![Suelo Seco 24%](evidencias/humedad_24%.png)
