@@ -61,3 +61,20 @@ void loop() {
     Serial.println("-> ESTADO: Humedad en rango de transicion (Esperando umbrales).");
   } 
 }
+
+Evidencias de funcionamiento
+1. Esquema general del circuito electrónico en Wokwi
+evidencias/esquema_esp32.png
+
+2. Escenario de suelo seco (Riego activo - 0,00 % VWC)
+evidencias/humedad_0.png
+
+3. Escenario de suelo seco crítico (Riego activo - 24,44 % VWC)
+evidencias/humedad_24.png
+
+4. Escenario de zona de transición (Rango intermedio - 51,53 % VWC)
+evidencias/humedad_51.png
+
+5. Escenario de humedad óptima (Riego inactivo - 74,09 % VWC)
+evidencias/humedad_74.png
+
