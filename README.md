@@ -82,7 +82,7 @@ El sistema ha sido probado bajo diferentes escenarios agroclimáticos virtuales 
 ### 5. Escenario de Humedad Óptima (Riego Inactivo - 74.09\% VWC)
 ![Humedad Óptima](evidencias/humedad_74.png)
 
-## 📋 Evidencia de Gestión del Proyecto
+## Evidencia de Gestión del Proyecto
 
 La planificación, asignación de tareas y seguimiento del desarrollo del sistema se gestionaron mediante la plataforma Trello. A continuación, se presenta una captura del tablero utilizado durante la ejecución del proyecto.
 ### Tablero de Gestión del Proyecto
