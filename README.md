@@ -5,6 +5,11 @@ Repositorio oficial del proyecto de ingeniería enfocado en el diseño, desarrol
 ## 📋 Descripción del Proyecto
 El sistema implementa una arquitectura IoT modular estructurada en capas para optimizar el recurso hídrico y reducir el consumo energético frente a los métodos de riego empíricos tradicionales. El proyecto alcanza un nivel de madurez tecnológica **TRL 4** (validación de componentes en entorno simulado), integrando sensórica capacitiva, procesamiento local (*Edge Computing*) en un microcontrolador **ESP32**, y un sistema de control automático en lazo cerrado basado en el modelo agronómico FAO-56.
 
+## Recursos y Evidencias (TRL 4)
+
+* **Video de presentación técnica:** [Ver presentación del proyecto](https://drive.google.com/file/d/1F419a97jUQK_KSnkZRjBMklcwS-5yJ10/view?usp=sharing)
+* **Simulación interactiva en Wokwi:** https://wokwi.com/projects/480334428990241793
+
 ---
 
 ## 🏗️ Arquitectura del Sistema
